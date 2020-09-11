@@ -1,0 +1,261 @@
+C:\Users\Zakir\Downloads\create-pdf-with-netcore-master\create-pdf-with-netcore-master\PDF_Generator\PDF_Generator\bin\Debug\netcoreapp3.0\appsettings.Development.json
+C:\Users\Zakir\Downloads\create-pdf-with-netcore-master\create-pdf-with-netcore-master\PDF_Generator\PDF_Generator\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Users\Zakir\Downloads\create-pdf-with-netcore-master\create-pdf-with-netcore-master\PDF_Generator\PDF_Generator\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+C:\Users\Zakir\Downloads\create-pdf-with-netcore-master\create-pdf-with-netcore-master\PDF_Generator\PDF_Generator\bin\Debug\netcoreapp3.0\PDF_Generator.exe
+C:\Users\Zakir\Downloads\create-pdf-with-netcore-master\create-pdf-with-netcore-master\PDF_Generator\PDF_Generator\bin\Debug\netcoreapp3.0\assets\styles.css
+C:\Users\Zakir\Downloads\create-pdf-with-netcore-master\create-pdf-with-netcore-master\PDF_Generator\PDF_Generator\bin\Debug\netcoreapp3.0\libwkhtmltox.dll
+C:\Users\Zakir\Downloads\create-pdf-with-netcore-master\create-pdf-with-netcore-master\PDF_Generator\PDF_Generator\bin\Debug\netcoreapp3.0\PDF_Generator.deps.json
+C:\Users\Zakir\Downloads\create-pdf-with-netcore-master\create-pdf-with-netcore-master\PDF_Generator\PDF_Generator\bin\Debug\netcoreapp3.0\PDF_Generator.runtimeconfig.json
+C:\Users\Zakir\Downloads\create-pdf-with-netcore-master\create-pdf-with-netcore-master\PDF_Generator\PDF_Generator\bin\Debug\netcoreapp3.0\PDF_Generator.runtimeconfig.dev.json
+C:\Users\Zakir\Downloads\create-pdf-with-netcore-master\create-pdf-with-netcore-master\PDF_Generator\PDF_Generator\bin\Debug\netcoreapp3.0\PDF_Generator.dll
+C:\Users\Zakir\Downloads\create-pdf-with-netcore-master\create-pdf-with-netcore-master\PDF_Generator\PDF_Generator\bin\Debug\netcoreapp3.0\PDF_Generator.pdb
+C:\Users\Zakir\Downloads\create-pdf-with-netcore-master\create-pdf-with-netcore-master\PDF_Generator\PDF_Generator\bin\Debug\netcoreapp3.0\DinkToPdf.dll
+C:\Users\Zakir\Downloads\create-pdf-with-netcore-master\create-pdf-with-netcore-master\PDF_Generator\PDF_Generator\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Zakir\Downloads\create-pdf-with-netcore-master\create-pdf-with-netcore-master\PDF_Generator\PDF_Generator\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.dll
+C:\Users\Zakir\Downloads\create-pdf-with-netcore-master\create-pdf-with-netcore-master\PDF_Generator\PDF_Generator\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Zakir\Downloads\create-pdf-with-netcore-master\create-pdf-with-netcore-master\PDF_Generator\PDF_Generator\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Zakir\Downloads\create-pdf-with-netcore-master\create-pdf-with-netcore-master\PDF_Generator\PDF_Generator\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Zakir\Downloads\create-pdf-with-netcore-master\create-pdf-with-netcore-master\PDF_Generator\PDF_Generator\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Zakir\Downloads\create-pdf-with-netcore-master\create-pdf-with-netcore-master\PDF_Generator\PDF_Generator\bin\Debug\netcoreapp3.0\Microsoft.Data.SqlClient.dll
+C:\Users\Zakir\Downloads\create-pdf-with-netcore-master\create-pdf-with-netcore-master\PDF_Generator\PDF_Generator\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Zakir\Downloads\create-pdf-with-netcore-master\create-pdf-with-netcore-master\PDF_Generator\PDF_Generator\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Zakir\Downloads\create-pdf-with-netcore-master\create-pdf-with-netcore-master\PDF_Generator\PDF_Generator\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Zakir\Downloads\create-pdf-with-netcore-master\create-pdf-with-netcore-master\PDF_Generator\PDF_Generator\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Zakir\Downloads\create-pdf-with-netcore-master\create-pdf-with-netcore-master\PDF_Generator\PDF_Generator\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Zakir\Downloads\create-pdf-with-netcore-master\create-pdf-with-netcore-master\PDF_Generator\PDF_Generator\bin\Debug\netcoreapp3.0\Microsoft.Identity.Client.dll
+C:\Users\Zakir\Downloads\create-pdf-with-netcore-master\create-pdf-with-netcore-master\PDF_Generator\PDF_Generator\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Zakir\Downloads\create-pdf-with-netcore-master\create-pdf-with-netcore-master\PDF_Generator\PDF_Generator\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Zakir\Downloads\create-pdf-with-netcore-master\create-pdf-with-netcore-master\PDF_Generator\PDF_Generator\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Zakir\Downloads\create-pdf-with-netcore-master\create-pdf-with-netcore-master\PDF_Generator\PDF_Generator\bin\Debug\netcoreapp3.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Zakir\Downloads\create-pdf-with-netcore-master\create-pdf-with-netcore-master\PDF_Generator\PDF_Generator\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Zakir\Downloads\create-pdf-with-netcore-master\create-pdf-with-netcore-master\PDF_Generator\PDF_Generator\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Zakir\Downloads\create-pdf-with-netcore-master\create-pdf-with-netcore-master\PDF_Generator\PDF_Generator\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Zakir\Downloads\create-pdf-with-netcore-master\create-pdf-with-netcore-master\PDF_Generator\PDF_Generator\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Zakir\Downloads\create-pdf-with-netcore-master\create-pdf-with-netcore-master\PDF_Generator\PDF_Generator\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\Zakir\Downloads\create-pdf-with-netcore-master\create-pdf-with-netcore-master\PDF_Generator\PDF_Generator\bin\Debug\netcoreapp3.0\NuGet.Frameworks.dll
+C:\Users\Zakir\Downloads\create-pdf-with-netcore-master\create-pdf-with-netcore-master\PDF_Generator\PDF_Generator\bin\Debug\netcoreapp3.0\System.Composition.AttributedModel.dll
+C:\Users\Zakir\Downloads\create-pdf-with-netcore-master\create-pdf-with-netcore-master\PDF_Generator\PDF_Generator\bin\Debug\netcoreapp3.0\System.Composition.Convention.dll
+C:\Users\Zakir\Downloads\create-pdf-with-netcore-master\create-pdf-with-netcore-master\PDF_Generator\PDF_Generator\bin\Debug\netcoreapp3.0\System.Composition.Hosting.dll
+C:\Users\Zakir\Downloads\create-pdf-with-netcore-master\create-pdf-with-netcore-master\PDF_Generator\PDF_Generator\bin\Debug\netcoreapp3.0\System.Composition.Runtime.dll
+C:\Users\Zakir\Downloads\create-pdf-with-netcore-master\create-pdf-with-netcore-master\PDF_Generator\PDF_Generator\bin\Debug\netcoreapp3.0\System.Composition.TypedParts.dll
+C:\Users\Zakir\Downloads\create-pdf-with-netcore-master\create-pdf-with-netcore-master\PDF_Generator\PDF_Generator\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Zakir\Downloads\create-pdf-with-netcore-master\create-pdf-with-netcore-master\PDF_Generator\PDF_Generator\bin\Debug\netcoreapp3.0\System.Runtime.Caching.dll
+C:\Users\Zakir\Downloads\create-pdf-with-netcore-master\create-pdf-with-netcore-master\PDF_Generator\PDF_Generator\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Zakir\Downloads\create-pdf-with-netcore-master\create-pdf-with-netcore-master\PDF_Generator\PDF_Generator\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Zakir\Downloads\create-pdf-with-netcore-master\create-pdf-with-netcore-master\PDF_Generator\PDF_Generator\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Zakir\Downloads\create-pdf-with-netcore-master\create-pdf-with-netcore-master\PDF_Generator\PDF_Generator\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Zakir\Downloads\create-pdf-with-netcore-master\create-pdf-with-netcore-master\PDF_Generator\PDF_Generator\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Zakir\Downloads\create-pdf-with-netcore-master\create-pdf-with-netcore-master\PDF_Generator\PDF_Generator\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Zakir\Downloads\create-pdf-with-netcore-master\create-pdf-with-netcore-master\PDF_Generator\PDF_Generator\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Zakir\Downloads\create-pdf-with-netcore-master\create-pdf-with-netcore-master\PDF_Generator\PDF_Generator\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Zakir\Downloads\create-pdf-with-netcore-master\create-pdf-with-netcore-master\PDF_Generator\PDF_Generator\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Zakir\Downloads\create-pdf-with-netcore-master\create-pdf-with-netcore-master\PDF_Generator\PDF_Generator\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Zakir\Downloads\create-pdf-with-netcore-master\create-pdf-with-netcore-master\PDF_Generator\PDF_Generator\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Zakir\Downloads\create-pdf-with-netcore-master\create-pdf-with-netcore-master\PDF_Generator\PDF_Generator\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Zakir\Downloads\create-pdf-with-netcore-master\create-pdf-with-netcore-master\PDF_Generator\PDF_Generator\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Zakir\Downloads\create-pdf-with-netcore-master\create-pdf-with-netcore-master\PDF_Generator\PDF_Generator\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Zakir\Downloads\create-pdf-with-netcore-master\create-pdf-with-netcore-master\PDF_Generator\PDF_Generator\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Zakir\Downloads\create-pdf-with-netcore-master\create-pdf-with-netcore-master\PDF_Generator\PDF_Generator\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Zakir\Downloads\create-pdf-with-netcore-master\create-pdf-with-netcore-master\PDF_Generator\PDF_Generator\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Zakir\Downloads\create-pdf-with-netcore-master\create-pdf-with-netcore-master\PDF_Generator\PDF_Generator\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Zakir\Downloads\create-pdf-with-netcore-master\create-pdf-with-netcore-master\PDF_Generator\PDF_Generator\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Zakir\Downloads\create-pdf-with-netcore-master\create-pdf-with-netcore-master\PDF_Generator\PDF_Generator\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Zakir\Downloads\create-pdf-with-netcore-master\create-pdf-with-netcore-master\PDF_Generator\PDF_Generator\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Zakir\Downloads\create-pdf-with-netcore-master\create-pdf-with-netcore-master\PDF_Generator\PDF_Generator\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Zakir\Downloads\create-pdf-with-netcore-master\create-pdf-with-netcore-master\PDF_Generator\PDF_Generator\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Zakir\Downloads\create-pdf-with-netcore-master\create-pdf-with-netcore-master\PDF_Generator\PDF_Generator\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Zakir\Downloads\create-pdf-with-netcore-master\create-pdf-with-netcore-master\PDF_Generator\PDF_Generator\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Zakir\Downloads\create-pdf-with-netcore-master\create-pdf-with-netcore-master\PDF_Generator\PDF_Generator\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Zakir\Downloads\create-pdf-with-netcore-master\create-pdf-with-netcore-master\PDF_Generator\PDF_Generator\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Zakir\Downloads\create-pdf-with-netcore-master\create-pdf-with-netcore-master\PDF_Generator\PDF_Generator\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Zakir\Downloads\create-pdf-with-netcore-master\create-pdf-with-netcore-master\PDF_Generator\PDF_Generator\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Zakir\Downloads\create-pdf-with-netcore-master\create-pdf-with-netcore-master\PDF_Generator\PDF_Generator\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Zakir\Downloads\create-pdf-with-netcore-master\create-pdf-with-netcore-master\PDF_Generator\PDF_Generator\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Zakir\Downloads\create-pdf-with-netcore-master\create-pdf-with-netcore-master\PDF_Generator\PDF_Generator\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Zakir\Downloads\create-pdf-with-netcore-master\create-pdf-with-netcore-master\PDF_Generator\PDF_Generator\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Zakir\Downloads\create-pdf-with-netcore-master\create-pdf-with-netcore-master\PDF_Generator\PDF_Generator\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Zakir\Downloads\create-pdf-with-netcore-master\create-pdf-with-netcore-master\PDF_Generator\PDF_Generator\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Zakir\Downloads\create-pdf-with-netcore-master\create-pdf-with-netcore-master\PDF_Generator\PDF_Generator\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Zakir\Downloads\create-pdf-with-netcore-master\create-pdf-with-netcore-master\PDF_Generator\PDF_Generator\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Zakir\Downloads\create-pdf-with-netcore-master\create-pdf-with-netcore-master\PDF_Generator\PDF_Generator\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Zakir\Downloads\create-pdf-with-netcore-master\create-pdf-with-netcore-master\PDF_Generator\PDF_Generator\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Zakir\Downloads\create-pdf-with-netcore-master\create-pdf-with-netcore-master\PDF_Generator\PDF_Generator\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Zakir\Downloads\create-pdf-with-netcore-master\create-pdf-with-netcore-master\PDF_Generator\PDF_Generator\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Zakir\Downloads\create-pdf-with-netcore-master\create-pdf-with-netcore-master\PDF_Generator\PDF_Generator\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Zakir\Downloads\create-pdf-with-netcore-master\create-pdf-with-netcore-master\PDF_Generator\PDF_Generator\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Zakir\Downloads\create-pdf-with-netcore-master\create-pdf-with-netcore-master\PDF_Generator\PDF_Generator\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Zakir\Downloads\create-pdf-with-netcore-master\create-pdf-with-netcore-master\PDF_Generator\PDF_Generator\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Zakir\Downloads\create-pdf-with-netcore-master\create-pdf-with-netcore-master\PDF_Generator\PDF_Generator\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Zakir\Downloads\create-pdf-with-netcore-master\create-pdf-with-netcore-master\PDF_Generator\PDF_Generator\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Zakir\Downloads\create-pdf-with-netcore-master\create-pdf-with-netcore-master\PDF_Generator\PDF_Generator\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Zakir\Downloads\create-pdf-with-netcore-master\create-pdf-with-netcore-master\PDF_Generator\PDF_Generator\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Zakir\Downloads\create-pdf-with-netcore-master\create-pdf-with-netcore-master\PDF_Generator\PDF_Generator\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Zakir\Downloads\create-pdf-with-netcore-master\create-pdf-with-netcore-master\PDF_Generator\PDF_Generator\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Zakir\Downloads\create-pdf-with-netcore-master\create-pdf-with-netcore-master\PDF_Generator\PDF_Generator\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Zakir\Downloads\create-pdf-with-netcore-master\create-pdf-with-netcore-master\PDF_Generator\PDF_Generator\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Zakir\Downloads\create-pdf-with-netcore-master\create-pdf-with-netcore-master\PDF_Generator\PDF_Generator\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Zakir\Downloads\create-pdf-with-netcore-master\create-pdf-with-netcore-master\PDF_Generator\PDF_Generator\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Zakir\Downloads\create-pdf-with-netcore-master\create-pdf-with-netcore-master\PDF_Generator\PDF_Generator\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Zakir\Downloads\create-pdf-with-netcore-master\create-pdf-with-netcore-master\PDF_Generator\PDF_Generator\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\sni.dll
+C:\Users\Zakir\Downloads\create-pdf-with-netcore-master\create-pdf-with-netcore-master\PDF_Generator\PDF_Generator\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\sni.dll
+C:\Users\Zakir\Downloads\create-pdf-with-netcore-master\create-pdf-with-netcore-master\PDF_Generator\PDF_Generator\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Zakir\Downloads\create-pdf-with-netcore-master\create-pdf-with-netcore-master\PDF_Generator\PDF_Generator\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Zakir\Downloads\create-pdf-with-netcore-master\create-pdf-with-netcore-master\PDF_Generator\PDF_Generator\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Zakir\Downloads\create-pdf-with-netcore-master\create-pdf-with-netcore-master\PDF_Generator\PDF_Generator\obj\Debug\netcoreapp3.0\PDF_Generator.csprojAssemblyReference.cache
+C:\Users\Zakir\Downloads\create-pdf-with-netcore-master\create-pdf-with-netcore-master\PDF_Generator\PDF_Generator\obj\Debug\netcoreapp3.0\PDF_Generator.AssemblyInfoInputs.cache
+C:\Users\Zakir\Downloads\create-pdf-with-netcore-master\create-pdf-with-netcore-master\PDF_Generator\PDF_Generator\obj\Debug\netcoreapp3.0\PDF_Generator.AssemblyInfo.cs
+C:\Users\Zakir\Downloads\create-pdf-with-netcore-master\create-pdf-with-netcore-master\PDF_Generator\PDF_Generator\obj\Debug\netcoreapp3.0\PDF_Generator.csproj.CoreCompileInputs.cache
+C:\Users\Zakir\Downloads\create-pdf-with-netcore-master\create-pdf-with-netcore-master\PDF_Generator\PDF_Generator\obj\Debug\netcoreapp3.0\PDF_Generator.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Zakir\Downloads\create-pdf-with-netcore-master\create-pdf-with-netcore-master\PDF_Generator\PDF_Generator\obj\Debug\netcoreapp3.0\PDF_Generator.RazorTargetAssemblyInfo.cache
+C:\Users\Zakir\Downloads\create-pdf-with-netcore-master\create-pdf-with-netcore-master\PDF_Generator\PDF_Generator\obj\Debug\netcoreapp3.0\PDF_Generator.csproj.CopyComplete
+C:\Users\Zakir\Downloads\create-pdf-with-netcore-master\create-pdf-with-netcore-master\PDF_Generator\PDF_Generator\obj\Debug\netcoreapp3.0\staticwebassets\PDF_Generator.StaticWebAssets.Manifest.cache
+C:\Users\Zakir\Downloads\create-pdf-with-netcore-master\create-pdf-with-netcore-master\PDF_Generator\PDF_Generator\obj\Debug\netcoreapp3.0\staticwebassets\PDF_Generator.StaticWebAssets.xml
+C:\Users\Zakir\Downloads\create-pdf-with-netcore-master\create-pdf-with-netcore-master\PDF_Generator\PDF_Generator\obj\Debug\netcoreapp3.0\PDF_Generator.dll
+C:\Users\Zakir\Downloads\create-pdf-with-netcore-master\create-pdf-with-netcore-master\PDF_Generator\PDF_Generator\obj\Debug\netcoreapp3.0\PDF_Generator.pdb
+C:\Users\Zakir\Downloads\create-pdf-with-netcore-master\create-pdf-with-netcore-master\PDF_Generator\PDF_Generator\obj\Debug\netcoreapp3.0\PDF_Generator.genruntimeconfig.cache
+H:\New Asp.Net Core\PDF_GENERATOR\PDF_Generator\bin\Debug\netcoreapp3.0\appsettings.Development.json
+H:\New Asp.Net Core\PDF_GENERATOR\PDF_Generator\bin\Debug\netcoreapp3.0\appsettings.json
+H:\New Asp.Net Core\PDF_GENERATOR\PDF_Generator\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+H:\New Asp.Net Core\PDF_GENERATOR\PDF_Generator\bin\Debug\netcoreapp3.0\PDF_GENERATOR.exe
+H:\New Asp.Net Core\PDF_GENERATOR\PDF_Generator\bin\Debug\netcoreapp3.0\assets\styles.css
+H:\New Asp.Net Core\PDF_GENERATOR\PDF_Generator\bin\Debug\netcoreapp3.0\libwkhtmltox.dll
+H:\New Asp.Net Core\PDF_GENERATOR\PDF_Generator\bin\Debug\netcoreapp3.0\PDF_GENERATOR.deps.json
+H:\New Asp.Net Core\PDF_GENERATOR\PDF_Generator\bin\Debug\netcoreapp3.0\PDF_GENERATOR.runtimeconfig.json
+H:\New Asp.Net Core\PDF_GENERATOR\PDF_Generator\bin\Debug\netcoreapp3.0\PDF_GENERATOR.runtimeconfig.dev.json
+H:\New Asp.Net Core\PDF_GENERATOR\PDF_Generator\bin\Debug\netcoreapp3.0\PDF_GENERATOR.dll
+H:\New Asp.Net Core\PDF_GENERATOR\PDF_Generator\bin\Debug\netcoreapp3.0\PDF_GENERATOR.pdb
+H:\New Asp.Net Core\PDF_GENERATOR\PDF_Generator\bin\Debug\netcoreapp3.0\PDF_GENERATOR.Views.dll
+H:\New Asp.Net Core\PDF_GENERATOR\PDF_Generator\bin\Debug\netcoreapp3.0\PDF_GENERATOR.Views.pdb
+H:\New Asp.Net Core\PDF_GENERATOR\PDF_Generator\bin\Debug\netcoreapp3.0\DinkToPdf.dll
+H:\New Asp.Net Core\PDF_GENERATOR\PDF_Generator\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Razor.Language.dll
+H:\New Asp.Net Core\PDF_GENERATOR\PDF_Generator\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.dll
+H:\New Asp.Net Core\PDF_GENERATOR\PDF_Generator\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.dll
+H:\New Asp.Net Core\PDF_GENERATOR\PDF_Generator\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+H:\New Asp.Net Core\PDF_GENERATOR\PDF_Generator\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Razor.dll
+H:\New Asp.Net Core\PDF_GENERATOR\PDF_Generator\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Workspaces.dll
+H:\New Asp.Net Core\PDF_GENERATOR\PDF_Generator\bin\Debug\netcoreapp3.0\Microsoft.Data.SqlClient.dll
+H:\New Asp.Net Core\PDF_GENERATOR\PDF_Generator\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+H:\New Asp.Net Core\PDF_GENERATOR\PDF_Generator\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+H:\New Asp.Net Core\PDF_GENERATOR\PDF_Generator\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+H:\New Asp.Net Core\PDF_GENERATOR\PDF_Generator\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+H:\New Asp.Net Core\PDF_GENERATOR\PDF_Generator\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+H:\New Asp.Net Core\PDF_GENERATOR\PDF_Generator\bin\Debug\netcoreapp3.0\Microsoft.Identity.Client.dll
+H:\New Asp.Net Core\PDF_GENERATOR\PDF_Generator\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+H:\New Asp.Net Core\PDF_GENERATOR\PDF_Generator\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+H:\New Asp.Net Core\PDF_GENERATOR\PDF_Generator\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+H:\New Asp.Net Core\PDF_GENERATOR\PDF_Generator\bin\Debug\netcoreapp3.0\dotnet-aspnet-codegenerator-design.dll
+H:\New Asp.Net Core\PDF_GENERATOR\PDF_Generator\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+H:\New Asp.Net Core\PDF_GENERATOR\PDF_Generator\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+H:\New Asp.Net Core\PDF_GENERATOR\PDF_Generator\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+H:\New Asp.Net Core\PDF_GENERATOR\PDF_Generator\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+H:\New Asp.Net Core\PDF_GENERATOR\PDF_Generator\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+H:\New Asp.Net Core\PDF_GENERATOR\PDF_Generator\bin\Debug\netcoreapp3.0\NuGet.Frameworks.dll
+H:\New Asp.Net Core\PDF_GENERATOR\PDF_Generator\bin\Debug\netcoreapp3.0\System.Composition.AttributedModel.dll
+H:\New Asp.Net Core\PDF_GENERATOR\PDF_Generator\bin\Debug\netcoreapp3.0\System.Composition.Convention.dll
+H:\New Asp.Net Core\PDF_GENERATOR\PDF_Generator\bin\Debug\netcoreapp3.0\System.Composition.Hosting.dll
+H:\New Asp.Net Core\PDF_GENERATOR\PDF_Generator\bin\Debug\netcoreapp3.0\System.Composition.Runtime.dll
+H:\New Asp.Net Core\PDF_GENERATOR\PDF_Generator\bin\Debug\netcoreapp3.0\System.Composition.TypedParts.dll
+H:\New Asp.Net Core\PDF_GENERATOR\PDF_Generator\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+H:\New Asp.Net Core\PDF_GENERATOR\PDF_Generator\bin\Debug\netcoreapp3.0\System.Runtime.Caching.dll
+H:\New Asp.Net Core\PDF_GENERATOR\PDF_Generator\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+H:\New Asp.Net Core\PDF_GENERATOR\PDF_Generator\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.resources.dll
+H:\New Asp.Net Core\PDF_GENERATOR\PDF_Generator\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.resources.dll
+H:\New Asp.Net Core\PDF_GENERATOR\PDF_Generator\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.resources.dll
+H:\New Asp.Net Core\PDF_GENERATOR\PDF_Generator\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.resources.dll
+H:\New Asp.Net Core\PDF_GENERATOR\PDF_Generator\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.resources.dll
+H:\New Asp.Net Core\PDF_GENERATOR\PDF_Generator\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.resources.dll
+H:\New Asp.Net Core\PDF_GENERATOR\PDF_Generator\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.resources.dll
+H:\New Asp.Net Core\PDF_GENERATOR\PDF_Generator\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.resources.dll
+H:\New Asp.Net Core\PDF_GENERATOR\PDF_Generator\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+H:\New Asp.Net Core\PDF_GENERATOR\PDF_Generator\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.resources.dll
+H:\New Asp.Net Core\PDF_GENERATOR\PDF_Generator\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.resources.dll
+H:\New Asp.Net Core\PDF_GENERATOR\PDF_Generator\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+H:\New Asp.Net Core\PDF_GENERATOR\PDF_Generator\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+H:\New Asp.Net Core\PDF_GENERATOR\PDF_Generator\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\New Asp.Net Core\PDF_GENERATOR\PDF_Generator\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\New Asp.Net Core\PDF_GENERATOR\PDF_Generator\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\New Asp.Net Core\PDF_GENERATOR\PDF_Generator\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\New Asp.Net Core\PDF_GENERATOR\PDF_Generator\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\New Asp.Net Core\PDF_GENERATOR\PDF_Generator\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\New Asp.Net Core\PDF_GENERATOR\PDF_Generator\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\New Asp.Net Core\PDF_GENERATOR\PDF_Generator\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\New Asp.Net Core\PDF_GENERATOR\PDF_Generator\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\New Asp.Net Core\PDF_GENERATOR\PDF_Generator\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\New Asp.Net Core\PDF_GENERATOR\PDF_Generator\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\New Asp.Net Core\PDF_GENERATOR\PDF_Generator\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\New Asp.Net Core\PDF_GENERATOR\PDF_Generator\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\New Asp.Net Core\PDF_GENERATOR\PDF_Generator\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\New Asp.Net Core\PDF_GENERATOR\PDF_Generator\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\New Asp.Net Core\PDF_GENERATOR\PDF_Generator\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\New Asp.Net Core\PDF_GENERATOR\PDF_Generator\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\New Asp.Net Core\PDF_GENERATOR\PDF_Generator\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\New Asp.Net Core\PDF_GENERATOR\PDF_Generator\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\New Asp.Net Core\PDF_GENERATOR\PDF_Generator\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\New Asp.Net Core\PDF_GENERATOR\PDF_Generator\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\New Asp.Net Core\PDF_GENERATOR\PDF_Generator\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\New Asp.Net Core\PDF_GENERATOR\PDF_Generator\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\New Asp.Net Core\PDF_GENERATOR\PDF_Generator\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\New Asp.Net Core\PDF_GENERATOR\PDF_Generator\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\New Asp.Net Core\PDF_GENERATOR\PDF_Generator\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\New Asp.Net Core\PDF_GENERATOR\PDF_Generator\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\New Asp.Net Core\PDF_GENERATOR\PDF_Generator\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\New Asp.Net Core\PDF_GENERATOR\PDF_Generator\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\New Asp.Net Core\PDF_GENERATOR\PDF_Generator\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\New Asp.Net Core\PDF_GENERATOR\PDF_Generator\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\New Asp.Net Core\PDF_GENERATOR\PDF_Generator\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\New Asp.Net Core\PDF_GENERATOR\PDF_Generator\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\New Asp.Net Core\PDF_GENERATOR\PDF_Generator\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\New Asp.Net Core\PDF_GENERATOR\PDF_Generator\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\New Asp.Net Core\PDF_GENERATOR\PDF_Generator\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\New Asp.Net Core\PDF_GENERATOR\PDF_Generator\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\New Asp.Net Core\PDF_GENERATOR\PDF_Generator\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\New Asp.Net Core\PDF_GENERATOR\PDF_Generator\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\New Asp.Net Core\PDF_GENERATOR\PDF_Generator\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+H:\New Asp.Net Core\PDF_GENERATOR\PDF_Generator\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+H:\New Asp.Net Core\PDF_GENERATOR\PDF_Generator\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
+H:\New Asp.Net Core\PDF_GENERATOR\PDF_Generator\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\sni.dll
+H:\New Asp.Net Core\PDF_GENERATOR\PDF_Generator\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\sni.dll
+H:\New Asp.Net Core\PDF_GENERATOR\PDF_Generator\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+H:\New Asp.Net Core\PDF_GENERATOR\PDF_Generator\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+H:\New Asp.Net Core\PDF_GENERATOR\PDF_Generator\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+H:\New Asp.Net Core\PDF_GENERATOR\PDF_Generator\obj\Debug\netcoreapp3.0\PDF_GENERATOR.csprojAssemblyReference.cache
+H:\New Asp.Net Core\PDF_GENERATOR\PDF_Generator\obj\Debug\netcoreapp3.0\PDF_GENERATOR.AssemblyInfoInputs.cache
+H:\New Asp.Net Core\PDF_GENERATOR\PDF_Generator\obj\Debug\netcoreapp3.0\PDF_GENERATOR.AssemblyInfo.cs
+H:\New Asp.Net Core\PDF_GENERATOR\PDF_Generator\obj\Debug\netcoreapp3.0\PDF_GENERATOR.csproj.CoreCompileInputs.cache
+H:\New Asp.Net Core\PDF_GENERATOR\PDF_Generator\obj\Debug\netcoreapp3.0\PDF_GENERATOR.MvcApplicationPartsAssemblyInfo.cache
+H:\New Asp.Net Core\PDF_GENERATOR\PDF_Generator\obj\Debug\netcoreapp3.0\PDF_GENERATOR.RazorAssemblyInfo.cache
+H:\New Asp.Net Core\PDF_GENERATOR\PDF_Generator\obj\Debug\netcoreapp3.0\PDF_GENERATOR.RazorAssemblyInfo.cs
+H:\New Asp.Net Core\PDF_GENERATOR\PDF_Generator\obj\Debug\netcoreapp3.0\PDF_GENERATOR.TagHelpers.input.cache
+H:\New Asp.Net Core\PDF_GENERATOR\PDF_Generator\obj\Debug\netcoreapp3.0\PDF_GENERATOR.TagHelpers.output.cache
+H:\New Asp.Net Core\PDF_GENERATOR\PDF_Generator\obj\Debug\netcoreapp3.0\PDF_GENERATOR.RazorCoreGenerate.cache
+H:\New Asp.Net Core\PDF_GENERATOR\PDF_Generator\obj\Debug\netcoreapp3.0\PDF_GENERATOR.RazorTargetAssemblyInfo.cache
+H:\New Asp.Net Core\PDF_GENERATOR\PDF_Generator\obj\Debug\netcoreapp3.0\PDF_GENERATOR.RazorTargetAssemblyInfo.cs
+H:\New Asp.Net Core\PDF_GENERATOR\PDF_Generator\obj\Debug\netcoreapp3.0\PDF_GENERATOR.Views.pdb
+H:\New Asp.Net Core\PDF_GENERATOR\PDF_Generator\obj\Debug\netcoreapp3.0\PDF_GENERATOR.csproj.CopyComplete
+H:\New Asp.Net Core\PDF_GENERATOR\PDF_Generator\obj\Debug\netcoreapp3.0\staticwebassets\PDF_GENERATOR.StaticWebAssets.Manifest.cache
+H:\New Asp.Net Core\PDF_GENERATOR\PDF_Generator\obj\Debug\netcoreapp3.0\staticwebassets\PDF_GENERATOR.StaticWebAssets.xml
+H:\New Asp.Net Core\PDF_GENERATOR\PDF_Generator\obj\Debug\netcoreapp3.0\PDF_GENERATOR.dll
+H:\New Asp.Net Core\PDF_GENERATOR\PDF_Generator\obj\Debug\netcoreapp3.0\PDF_GENERATOR.pdb
+H:\New Asp.Net Core\PDF_GENERATOR\PDF_Generator\obj\Debug\netcoreapp3.0\PDF_GENERATOR.genruntimeconfig.cache
+H:\New Asp.Net Core\PDF_GENERATOR\PDF_Generator\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+H:\New Asp.Net Core\PDF_GENERATOR\PDF_Generator\obj\Debug\netcoreapp3.0\Razor\Views\_ViewImports.cshtml.g.cs
+H:\New Asp.Net Core\PDF_GENERATOR\PDF_Generator\obj\Debug\netcoreapp3.0\Razor\Views\_ViewStart.cshtml.g.cs
+H:\New Asp.Net Core\PDF_GENERATOR\PDF_Generator\obj\Debug\netcoreapp3.0\Razor\Views\Home\Index.cshtml.g.cs
+H:\New Asp.Net Core\PDF_GENERATOR\PDF_Generator\bin\Debug\netcoreapp3.0\Microsoft.Bcl.AsyncInterfaces.dll
+H:\New Asp.Net Core\PDF_GENERATOR\PDF_Generator\bin\Debug\netcoreapp3.0\Microsoft.Bcl.HashCode.dll
+H:\New Asp.Net Core\PDF_GENERATOR\PDF_Generator\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Caching.Abstractions.dll
+H:\New Asp.Net Core\PDF_GENERATOR\PDF_Generator\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Caching.Memory.dll
+H:\New Asp.Net Core\PDF_GENERATOR\PDF_Generator\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.dll
+H:\New Asp.Net Core\PDF_GENERATOR\PDF_Generator\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Abstractions.dll
+H:\New Asp.Net Core\PDF_GENERATOR\PDF_Generator\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Binder.dll
+H:\New Asp.Net Core\PDF_GENERATOR\PDF_Generator\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.dll
+H:\New Asp.Net Core\PDF_GENERATOR\PDF_Generator\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+H:\New Asp.Net Core\PDF_GENERATOR\PDF_Generator\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.dll
+H:\New Asp.Net Core\PDF_GENERATOR\PDF_Generator\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.Abstractions.dll
+H:\New Asp.Net Core\PDF_GENERATOR\PDF_Generator\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Options.dll
+H:\New Asp.Net Core\PDF_GENERATOR\PDF_Generator\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Primitives.dll
+H:\New Asp.Net Core\PDF_GENERATOR\PDF_Generator\bin\Debug\netcoreapp3.0\System.Collections.Immutable.dll
+H:\New Asp.Net Core\PDF_GENERATOR\PDF_Generator\bin\Debug\netcoreapp3.0\System.ComponentModel.Annotations.dll
+H:\New Asp.Net Core\PDF_GENERATOR\PDF_Generator\bin\Debug\netcoreapp3.0\System.Diagnostics.DiagnosticSource.dll
+H:\New Asp.Net Core\PDF_GENERATOR\PDF_Generator\bin\Debug\netcoreapp3.0\System.Runtime.CompilerServices.Unsafe.dll
+H:\New Asp.Net Core\PDF_GENERATOR\PDF_Generator\obj\Debug\netcoreapp3.0\Razor\Views\Home\Success.cshtml.g.cs

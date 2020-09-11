@@ -1,0 +1,39 @@
+﻿@model Home
+@{
+    ViewData["Title"] = "Index";
+}
+
+@*Jumbotron Start*@
+<div class="jumbotron">
+    <div class="container">
+        <h1 class="text-center">HTML TO PDF CONVERTER</h1>
+        <h3 class="text-center">Others Converter Coming Soon</h3>
+        <h2 class="text-center"><a href="#" class="btn btn-warning">Convert Now</a></h2>
+    </div>
+
+</div>
+<br />
+@*Jumbotron End*@
+
+<div class="container text-center">
+    <form method="post" enctype="multipart/form-data" asp-controller="Home" asp-action="Index">
+
+        <div class="form-group">
+            <label asp-for="@Model.URL" class="font-weight-bold"></label>
+            <input asp-for="@Model.URL" class="form-control text-center" />
+        </div>
+
+        <div>
+            <button type="submit" class="btn btn-warning ">Convert HTML to PDF</button>
+            
+        </div>
+    </form>
+
+</div>
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+
